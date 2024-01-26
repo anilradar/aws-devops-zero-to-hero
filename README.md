@@ -183,3 +183,6 @@ On the final day, you'll review best practices for AWS services, including secur
 
 ## Day 30: AWS Project with RDS
 
+## AWS SAA-C03 Practice Exams Links
+- https://tutorialsdojo.com/courses/aws-certified-solutions-architect-associate-saa-c03-practice-exams/
+- https://www.knowledgehut.com/practice_tests/aws-solutions-architect-associate-practice-test-series-1-practice-test

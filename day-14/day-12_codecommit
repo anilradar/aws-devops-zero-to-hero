@@ -1,0 +1,5 @@
+Create an IAM user and add AWSCodeCommitPowerUser permission.
+Generate HTTPS Git credentials for the IAM user.
+Create a AWS CodeCommit Repository.
+Add the file to the repository commit the changes and push them to the repository.
+Do not recommend to use the AWS CodeCommit in real time.

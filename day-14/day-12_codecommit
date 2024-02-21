@@ -3,3 +3,58 @@ Generate HTTPS Git credentials for the IAM user.
 Create a AWS CodeCommit Repository.
 Add the file to the repository commit the changes and push them to the repository.
 Do not recommend to use the AWS CodeCommit in real time.
+
+
+
+AWS Zero to Hero
+
+AWS Developer tools:
+
+AWS CodeCommit
+AWS CodePipeline
+AWS CodeBuild
+AWS CodeDeploy
+
+I). AWS CodeCommit:
+-> parallel service of GitHub
+-> Repository service (private)
+-> Version Control System
+
+Advantages:
+- Managed Git service by AWS
+- Scalability
+- Reliability
+
+Disadvantages:
+- Features
+- AWS Restircted
+- Less Integrations with services outside AWS
+Process:
+1. Create an IAM user and add AWSCodeCommitPowerUser permission.
+2. Generate HTTPS Git credentials for the IAM user.
+3. Create a AWS CodeCommit Repository.
+4. Add the file to the repository commit the changes and push them to the repository.
+5. Do not recommend to use the AWS CodeCommit in real time.
+
+code-commit-user-at-058264186346
+
+4Pi8XYrcDz4vUwGxhbK4140Ra6CaeneMc3rCzW6pmSA=
+
+
+
+II). AWS CodePipeline
+
+-> Parallel service of Jenkins
+-> An Orchestrator (Acts like similar to jenkins)
+-> why have to pay for aws managed codepipeline while there are free/open source tools like jenkins
+	-- Managing the node instances difficult
+	-- Scalability is creating mess
+	-- AWS Restricted (Migration problem)
+	-- no need to worry about the managing
+	
+	whereas Jenkins will
+	-- Integrate with lot of tools or platforms
+	-- features of jenkins
+	-- 
+
+Day-14 | AWS END TO END CI | REALTIME PROJECT | DEMO WITH NOTES 

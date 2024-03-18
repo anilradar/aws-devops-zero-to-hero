@@ -71,3 +71,6 @@ In this final step, we'll trigger the CI process by making a change to our GitHu
 
 
 <img width="949" alt="image" src="https://github.com/anilradar/aws-devops-zero-to-hero/assets/89974739/77692753-74c1-47aa-83f1-3296ed6f89b7">
+
+
+<img width="711" alt="image" src="https://github.com/anilradar/aws-devops-zero-to-hero/assets/89974739/6a016a95-129c-4cc2-b3d8-a4d3caf74e5d">

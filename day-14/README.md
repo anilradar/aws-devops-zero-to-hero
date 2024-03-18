@@ -56,3 +56,13 @@ In this final step, we'll trigger the CI process by making a change to our GitHu
 - Head over to the AWS CodePipeline console and navigate to your pipeline.
 - You should see the pipeline automatically kick off as soon as it detects the changes in your repository.
 - Sit back and relax while AWS CodePipeline takes care of the rest. It will fetch the latest code, trigger the build process with AWS CodeBuild, and deploy the application if you configured the deployment stage.
+
+
+<img width="946" alt="image" src="https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/89974739/e6b9c469-2a9c-4382-9815-1f92f651312c">
+
+
+<img width="438" alt="image" src="https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/89974739/65d6d678-c280-44b0-a22e-2335938a9a51">
+
+
+<img width="960" alt="image" src="https://github.com/iam-veeramalla/aws-devops-zero-to-hero/assets/89974739/67f92284-a74f-44ab-b592-e2f427f81548">
+
